@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayLists/ArrayLists.iml" filepath="$PROJECT_DIR$/ArrayLists/ArrayLists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AutoBoxing-Unboxing/AutoBoxing-Unboxing.iml" filepath="$PROJECT_DIR$/AutoBoxing-Unboxing/AutoBoxing-Unboxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Composition/Composition.iml" filepath="$PROJECT_DIR$/Composition/Composition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicios.iml" filepath="$PROJECT_DIR$/Ejercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics/Generics.iml" filepath="$PROJECT_DIR$/Generics/Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InheritanceExcercise/InheritanceExcercise.iml" filepath="$PROJECT_DIR$/InheritanceExcercise/InheritanceExcercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InnerClasses/InnerClasses.iml" filepath="$PROJECT_DIR$/InnerClasses/InnerClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfaceChallenge/InterfaceChallenge.iml" filepath="$PROJECT_DIR$/InterfaceChallenge/InterfaceChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lambda/Lambda.iml" filepath="$PROJECT_DIR$/Lambda/Lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedLists/LinkedLists.iml" filepath="$PROJECT_DIR$/LinkedLists/LinkedLists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LocalClasses/LocalClasses.iml" filepath="$PROJECT_DIR$/LocalClasses/LocalClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MasterChallenge/MasterChallenge.iml" filepath="$PROJECT_DIR$/MasterChallenge/MasterChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ploymorhism/Ploymorhism.iml" filepath="$PROJECT_DIR$/Ploymorhism/Ploymorhism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/TaskChallenge/TaskChallenge.iml" filepath="$PROJECT_DIR$/Collections/TaskChallenge/TaskChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/TreeSet/TreeSet.iml" filepath="$PROJECT_DIR$/Collections/TreeSet/TreeSet.iml" />
+    </modules>
+  </component>
+</project>
